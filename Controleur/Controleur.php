@@ -1,6 +1,6 @@
 <?php
 
-require 'Modele.php';
+require 'Modele/Modele.php';
 
 // Affiche la liste de tous les billets du blog
 function accueil() {
