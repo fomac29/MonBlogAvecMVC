@@ -17,5 +17,5 @@
 <?php endforeach; ?>
 <?php $contenu = ob_get_clean(); ?>
 
-<?php require 'gabarit.php'; ?>
+<?php require 'Vue/gabarit.php'; ?>
 
