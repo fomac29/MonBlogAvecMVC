@@ -1,4 +1,3 @@
-<div id="contenu">
  <?php
  require 'Modele.php';
  
